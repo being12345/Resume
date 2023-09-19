@@ -17,7 +17,7 @@
 ## Core Project
 |  Project   | Website  |Description
 |  ----  | ----  |  ----  
-|leaks detector in chemical plants|https://github.com/being12345/shunet_image_identification|we only open image identification code of the system(demo video is here)
+|leaks detector in chemical plants|https://github.com/being12345/shunet_image_identification|we only open image identification code of the system(demo video is [here](https://youtu.be/VXS-hr3zYXY))
 pytroch template |  https://github.com/being12345/torch_template | awesome pytroch lightning template for training model
 MicroService Metric Collector| open source code in three months | use Kubernetes deploy Microservices and prometheus and Jaeger to collect data
 
